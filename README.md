@@ -114,6 +114,4 @@ Food · Transport · Shopping · Health · Education · Utilities · Entertainme
 
 ---
 
-## 👤 Author
 
-**EMAN AHMED**

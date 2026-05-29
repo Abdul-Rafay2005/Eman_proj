@@ -117,5 +117,4 @@ Food · Transport · Shopping · Health · Education · Utilities · Entertainme
 ## 👤 Author
 EMAN AHMED 
 
-**Abdul Rafay**
-- GitHub: [@Abdul-Rafay2005](https://github.com/Abdul-Rafay2005)
+**EMAN AHMED**
